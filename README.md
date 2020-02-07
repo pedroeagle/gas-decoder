@@ -10,4 +10,4 @@ Este projeto tem o intuito de decodificar textos em imagens ou pdfs. A decodific
 7 - É necessário configurar a permissão do Drive. Para isso clique em <b>Recursos</b> e em seguida em <b>Serviços avançados do Google</b>. Em seguida procure por <b>Drive Api</b> e ative clicando no swith a direita.
 
 # Executando
-Basta selecionar a função "myFunction" na caixa de selecão e clicar no botão de executar. Serão solicitadas algumas permissões e mostrados alguns avisos, dê permissões a todos. O resultado estará disponível na Google Sheet aberta.
+Basta selecionar a função "myFunction" na caixa de selecão e clicar no botão de executar. <b>Serão solicitadas algumas permissões e mostrados alguns avisos, dê permissões a todos.</b> O resultado estará disponível na Google Sheet aberta.
